@@ -1,4 +1,4 @@
-#AI Travel planner with Multi Agents: flights_agent, hotels_agent, itinerary_agent and coordinator used Google ADK
+#Travel planner with Multi Agents: flights_agent, hotels_agent, itinerary_agent and coordinator used Google ADK
 import asyncio
 from dotenv import load_dotenv
 from google.adk.agents import Agent
